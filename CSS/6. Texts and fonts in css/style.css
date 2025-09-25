@@ -1,0 +1,29 @@
+ h1{ color: blue;
+    background-color: darkorange;
+    text-decoration: line-through;
+       text-decoration-color: purple;
+       text-decoration-style: wavy}
+/* #with justify you can get your comments justifiued on both the left and right hand side */
+
+p{text-align:justify}
+
+.p1{text-indent:40px,}
+/* text-decoration is used to edit the way a line or text looks or link ex sometimes there is a line under link if we want to omit taht line or want that line on top of the link or at timeswe want a line through our text whicgh looks like the text has enn cut because of being wrong */
+
+a{
+  
+    text-decoration: line-through;
+    color: black;
+    text-decoration-color: red;
+}
+/* You dpont have tpo remeneber each and everything as whebnebver you feel like you have foregotten something just sdearch about it on either mdn or w3school */
+
+/* 1.) Text Indent
+if we wish to have an indent before any particular [paaragraph starting then we use text indent */
+ /* 2.)Letter spacing for space between letters */
+
+.p1{letter-spacing: 0.05em}
+.p1{word-spacing: 10px;}
+
+
+/* 3.)Word spacing is for spacing between words */
