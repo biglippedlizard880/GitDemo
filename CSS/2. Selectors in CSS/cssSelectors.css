@@ -1,0 +1,52 @@
+/* p{color: red}
+h2{color: aqua} */
+
+/* #iFT{
+    color: red
+}
+#pID{
+    color: yellow
+} */
+
+/* .P1Class{
+    color: blue
+} */
+/* .heading{
+    color: orange;
+}
+.hea2{
+    font-size: larger;
+    background-color: green;
+}
+ */
+
+/* #iFT,#pID,.highlighter,p{
+    color:blueviolet
+} */
+
+/* p{
+    color: brown
+}
+#Nested1{
+    color:aquamarine
+}
+.Nested2{
+    color: green
+} */
+
+/* *{
+    font-family: 'Lucida Sans';
+} */
+
+/* descendent selector */
+/* #DescendentSelector p{
+    color: red;
+} */
+
+/* in case if you hober over any paragrap and want to change its font color then you must use the p: hover  */
+p:hover{
+    color: green
+}
+
+
+

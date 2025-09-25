@@ -1,0 +1,19 @@
+main{
+    border: 4px red solid;
+    border-radius: 1%;
+    width: 50%;
+}
+section{
+    border: 8px rgb(255, 255, 0) dotted;
+    border-radius: 8%;
+    width: 70vw;
+}
+body{
+    font-size: 2em;
+}
+header{
+    font-size: 2em;
+}
+h2{
+    font-size:2rem;
+}
